@@ -50,5 +50,5 @@ visitar("GitHub")
 pagina_actual()
 retroceder()
 retroceder()
-retroceder()
+retroceder()  # prueba extra: caso límite, ya no hay a dónde regresar
 pagina_actual()
