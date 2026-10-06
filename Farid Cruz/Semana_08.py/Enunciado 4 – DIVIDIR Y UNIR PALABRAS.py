@@ -14,7 +14,7 @@ for color in colores:
     colores_mayusculas.append(color.upper())
 
 # 4. Unir los colores con ' | ' usando join()
-resultado = " 1 ".join(colores_mayusculas)
+resultado = " | ".join(colores_mayusculas)
 
 # 5. Mostrar el resultado
-print(resultado)
+print(resultado) # ROJO | VERDE | AZUL | AMARILLO
